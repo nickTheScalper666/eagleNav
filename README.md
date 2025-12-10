@@ -161,3 +161,6 @@ CocoaPods issues
 If you see "No such module":
 bashpod install
 Then reopen the .xcworkspace.
+
+Download coreML models from here
+https://github.com/gouthamvgk/coreml_conversion_hub
